@@ -1,0 +1,26 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 24px;
+}
+
+button{
+    padding: 14px;
+    background-color: blueviolet;
+    color: azure;
+    border-radius: 21px;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.content-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
